@@ -117,6 +117,6 @@ for n in range(i):
 ```
 - sedangkan ini adalah untuk menampilkan hasil dari list yang telah diinputkan, dengan menggunakan perulangan for n in renge
 ### Berikut hasil dari programnya
-![gambar7](ss/ss6.pngs)
+![gambar7](ss/ss7.png)
 ## Selesai
 # sekian Terimakasih 
